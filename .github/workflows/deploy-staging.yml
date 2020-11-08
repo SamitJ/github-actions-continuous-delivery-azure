@@ -2,7 +2,7 @@ name: Stage the app
 
 on: 
   pull_request:
-    types: [labaled]
+    types: [labeled]
     
 jobs:
   build:
